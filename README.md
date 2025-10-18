@@ -11,6 +11,7 @@ A property rental management application built with Flutter and Firebase.
   <img src="screenshots/Explore.jpg" width="200" alt="Explore"/>
   <img src="screenshots/IntractiveMap.jpg" width="200" alt="Map"/>
   <img src="screenshots/PropertyCardonMapView.jpg" width="200" alt="Map"/>
+  <img src="screenshots/HostDashboard.jpg" width="200" alt="hostDashboard"/>
 </p>
 
 ## ✨ Key Features
