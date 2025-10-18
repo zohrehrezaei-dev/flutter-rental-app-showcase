@@ -2,8 +2,8 @@
 
 A property rental management application built with Flutter and Firebase.
 
-## 🚀 Live Demo
-[Link to deployed version or video demo]
+## 🎥 Demo Video
+[[Link to demo video]](https://youtu.be/z6X_KSavtew)
 
 ## ✨ Key Features
 - Dual-mode interface (Renters & Property Hosts)
@@ -24,9 +24,6 @@ A property rental management application built with Flutter and Firebase.
 
 ## 📱 Screenshots
 [Include high-quality screenshots]
-
-## 🎥 Demo Video
-[Link to demo video]
 
 ## 🏗️ Architecture Overview
  MVVM with 14 pages, 7 services, 10 models
