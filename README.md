@@ -7,8 +7,8 @@ A property rental management application built with Flutter and Firebase.
 
 ## 📱 Screenshots
 <p align="center">
-  <img src="screenshots/SplashScreen.jpg" width="200" alt="Home"/>
-  <img src="screenshots/mobile/search.png" width="200" alt="Search"/>
+  <img src="screenshots/SplashScreen.jpg" width="200" alt="Splash"/>
+  <img src="screenshots/Login.jpg" width="200" alt="Login"/>
   <img src="screenshots/mobile/details.png" width="200" alt="Details"/>
   <img src="screenshots/mobile/map.png" width="200" alt="Map"/>
 </p>
