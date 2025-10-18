@@ -3,6 +3,7 @@
 A property rental management application built with Flutter and Firebase.
 
 ## 🎥 Demo Video
+Please see this Youtube video of the app which shows renters and hosts flow. Host enters property's details and share it online. See the flow here:
 [[Link to demo video]](https://youtu.be/z6X_KSavtew)
 
 ## 📱 Screenshots
